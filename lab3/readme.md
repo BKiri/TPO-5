@@ -1,5 +1,5 @@
 Url: https://catalog.onliner.by
-\nBrowser: Opera
+<br>Browser: Opera
 
 Тест 1: Проверка работы разделов
 Шаги: Нажать на пункт электроника, выбрать мобильные телефоны
